@@ -1,3 +1,3 @@
-This is what a merge conflict looks like
+CONFLICT!!!!!!!!!!!!
 
 This is a test
